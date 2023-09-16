@@ -1,0 +1,116 @@
+---
+object: card
+id: cd434b31-a92a-4e0e-aabd-4d3e77ff6dcc
+oracle_id: 554de904-086c-428c-9f32-b0b2498a6fd5
+multiverse_ids:
+- 209124
+mtgo_id: 35403
+mtgo_foil_id: 35404
+tcgplayer_id: 36877
+cardmarket_id: 22273
+name: Phyrexian Debaser
+lang: en
+released_at: '2010-03-19'
+uri: https://api.scryfall.com/cards/cd434b31-a92a-4e0e-aabd-4d3e77ff6dcc
+scryfall_uri: https://scryfall.com/card/dde/10/phyrexian-debaser?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/c/d/cd434b31-a92a-4e0e-aabd-4d3e77ff6dcc.jpg?1562933421
+  normal: https://cards.scryfall.io/normal/front/c/d/cd434b31-a92a-4e0e-aabd-4d3e77ff6dcc.jpg?1562933421
+  large: https://cards.scryfall.io/large/front/c/d/cd434b31-a92a-4e0e-aabd-4d3e77ff6dcc.jpg?1562933421
+  png: https://cards.scryfall.io/png/front/c/d/cd434b31-a92a-4e0e-aabd-4d3e77ff6dcc.png?1562933421
+  art_crop: https://cards.scryfall.io/art_crop/front/c/d/cd434b31-a92a-4e0e-aabd-4d3e77ff6dcc.jpg?1562933421
+  border_crop: https://cards.scryfall.io/border_crop/front/c/d/cd434b31-a92a-4e0e-aabd-4d3e77ff6dcc.jpg?1562933421
+mana_cost: "{3}{B}"
+cmc: 4.0
+type_line: Creature — Phyrexian Carrier
+oracle_text: |-
+  Flying
+  {T}, Sacrifice Phyrexian Debaser: Target creature gets -2/-2 until end of turn.
+power: '2'
+toughness: '2'
+colors:
+- B
+color_identity:
+- B
+keywords:
+- Flying
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: legal
+  gladiator: legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: bf561626-56ca-4eb0-a2de-b84dbe7874f8
+set: dde
+set_name: 'Duel Decks: Phyrexia vs. the Coalition'
+set_type: duel_deck
+set_uri: https://api.scryfall.com/sets/bf561626-56ca-4eb0-a2de-b84dbe7874f8
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Adde&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/dde?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/cd434b31-a92a-4e0e-aabd-4d3e77ff6dcc/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A554de904-086c-428c-9f32-b0b2498a6fd5&unique=prints
+collector_number: '10'
+digital: false
+rarity: common
+flavor_text: |-
+  "The second stage of the illness: high fever and severe infectiousness."
+  —Phyrexian progress notes
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Mark Tedin
+artist_ids:
+- 9ee9a9cc-c09e-486f-918b-69f80cbc4188
+illustration_id: bfba237b-8bd7-452a-bd7c-68f7414bbcfe
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+edhrec_rank: 21748
+prices:
+  usd: '0.10'
+  usd_foil: 
+  usd_etched: 
+  eur: '0.02'
+  eur_foil: 
+  tix: '0.06'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=209124
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Phyrexian+Debaser&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Phyrexian+Debaser&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Phyrexian+Debaser
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/36877?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Phyrexian+Debaser&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/35403?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
